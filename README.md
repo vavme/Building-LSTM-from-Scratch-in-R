@@ -6,8 +6,7 @@ This project still contains lots of bugs (Incompleted).
 
 This project was built in order to understand how LSTM works when I was completing my Thesis.
 
-Reference :
-
+Reference :<br />
 https://github.com/nicklashansen/rnn_lstm_from_scratch/blob/master/RNN_LSTM_from_scratch.ipynb <br />
 https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial <br />
 https://www.kaggle.com/navjindervirdee/lstm-neural-network-from-scratch <br />
